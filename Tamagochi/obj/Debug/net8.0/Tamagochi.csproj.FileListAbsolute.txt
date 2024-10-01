@@ -1,0 +1,14 @@
+c:\Users\Adam.lysen\Desktop\PROG 2\Tamagochi\Tamagochi\bin\Debug\net8.0\Tamagochi.exe
+c:\Users\Adam.lysen\Desktop\PROG 2\Tamagochi\Tamagochi\bin\Debug\net8.0\Tamagochi.deps.json
+c:\Users\Adam.lysen\Desktop\PROG 2\Tamagochi\Tamagochi\bin\Debug\net8.0\Tamagochi.runtimeconfig.json
+c:\Users\Adam.lysen\Desktop\PROG 2\Tamagochi\Tamagochi\bin\Debug\net8.0\Tamagochi.dll
+c:\Users\Adam.lysen\Desktop\PROG 2\Tamagochi\Tamagochi\bin\Debug\net8.0\Tamagochi.pdb
+c:\Users\Adam.lysen\Desktop\PROG 2\Tamagochi\Tamagochi\obj\Debug\net8.0\Tamagochi.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Adam.lysen\Desktop\PROG 2\Tamagochi\Tamagochi\obj\Debug\net8.0\Tamagochi.AssemblyInfoInputs.cache
+c:\Users\Adam.lysen\Desktop\PROG 2\Tamagochi\Tamagochi\obj\Debug\net8.0\Tamagochi.AssemblyInfo.cs
+c:\Users\Adam.lysen\Desktop\PROG 2\Tamagochi\Tamagochi\obj\Debug\net8.0\Tamagochi.csproj.CoreCompileInputs.cache
+c:\Users\Adam.lysen\Desktop\PROG 2\Tamagochi\Tamagochi\obj\Debug\net8.0\Tamagochi.dll
+c:\Users\Adam.lysen\Desktop\PROG 2\Tamagochi\Tamagochi\obj\Debug\net8.0\refint\Tamagochi.dll
+c:\Users\Adam.lysen\Desktop\PROG 2\Tamagochi\Tamagochi\obj\Debug\net8.0\Tamagochi.pdb
+c:\Users\Adam.lysen\Desktop\PROG 2\Tamagochi\Tamagochi\obj\Debug\net8.0\Tamagochi.genruntimeconfig.cache
+c:\Users\Adam.lysen\Desktop\PROG 2\Tamagochi\Tamagochi\obj\Debug\net8.0\ref\Tamagochi.dll
